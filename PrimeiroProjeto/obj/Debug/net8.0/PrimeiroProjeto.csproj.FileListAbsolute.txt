@@ -12,3 +12,4 @@ D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\ne
 D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
 D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
 D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
