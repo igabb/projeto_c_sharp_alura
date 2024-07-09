@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            
             // Screen Sound
             string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 
@@ -54,9 +55,9 @@
             ExibirMensagemDeBoasVindas();
             ExibirOpcoesDoMenu();
 
+            
 
-
-           /*
+            /*
                 Exercício 1
            
                 string curso = "C#";
@@ -64,9 +65,53 @@
                 string sobrenome = "Silva";
 
                 Console.WriteLine(curso + " " + nome + " " + sobrenome); 
-           */
+            */
 
+            /*
+                Exercício 2
+            Console.Write("Digite uma nota: ");
+            int notaMedia = int.Parse(Console.ReadLine()!);
+            if (notaMedia >= 5)
+            {
+                Console.WriteLine("Nota suficiente para aprovação");
+            }
 
-        }
+            List<string> linguagens = ["C#", "Java", "JavaScript"];
+            Console.WriteLine(linguagens[0]);
+
+            int posicao = int.Parse(Console.ReadLine()!);
+            Console.WriteLine(linguagens[posicao]);
+            */
+
+            /*
+             Exercício 3
+
+            Random aleatorio = new Random();
+            int numeroSecreto = aleatorio.Next(1, 101);
+
+            do
+            {
+                Console.Write("Digite um número entre 1 e 100: ");
+                int chute = int.Parse(Console.ReadLine());
+
+                if (chute == numeroSecreto)
+                {
+                    Console.WriteLine("Parabéns! Você acertou o número.");
+                    break;
+                }
+                else if (chute < numeroSecreto)
+                {
+                    Console.WriteLine("O número é maior.");
+                }
+                else
+                {
+                    Console.WriteLine("O número é menor.");
+                }
+
+            } while (true);
+
+            Console.WriteLine("O jogo acabou. Você acertou o número secreto!");
+            */
+        }   
     }
 }
