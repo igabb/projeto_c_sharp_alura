@@ -1,0 +1,14 @@
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\DOWNLOADS\PROJETOS\Alura_C_Sharp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
